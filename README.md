@@ -1,2 +1,0 @@
-# jithub
-welcome  to jithub
